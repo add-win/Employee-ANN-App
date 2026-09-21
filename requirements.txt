@@ -1,6 +1,6 @@
+streamlit
 pandas
+numpy
 scikit-learn
 joblib
-streamlit
-tensorflow
-numpy
+tensorflow==2.20.0
